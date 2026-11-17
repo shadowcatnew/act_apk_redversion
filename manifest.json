@@ -1,3 +1,20 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "name": "Smart Tube - YouTubeTV",
+      "apkUrl": "https://cloud.leeapks.com/SmartTube_v32.56_(2446).apk?token=1792349575.9fqHV0zLmH2JVo6Cp5DoxHfzvX8XmeZbqHK_xWw0jAM"
+    },
+    {
+      "name": "YouTube (Móvil)",
+      "apkUrl": "https://cloud.droidapks.com/YouTube_Premium_Advanced_v21.46.522_(1561314007).apk?token=1794878335.m90nC6Yjtbk5JNCEhryhyPunAJl-BBtITuTX-4t-nWs"
+    },
+    {
+      "name": "YouTube Music (Móvil)",
+      "apkUrl": "https://cloud.droidapks.com/YT_Music_Premium_v9.46.51_(94651240).apk?token=1794878353.bRDONRg8EOeJq3NuzP9HbmCQ8IYpU2hCGU8P446t4Zo"
+    },
+    {
+      "name": "MicroG-RE",
+      "apkUrl": "https://github.com/MorpheApp/MicroG-RE/releases/download/7.3.0/microg-7.3.0.apk"
+    }
+  ]
 }
